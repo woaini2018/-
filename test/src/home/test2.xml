@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<中国> 
+  <江苏> 
+    <南京> 
+      <江宁 name="nihao" Parse="abc/douzasdf.py">123</江宁>  
+      <江宁 name="nihao1" Parse="dcd/douzasdf1.py"/>  
+      <江宁 name="nihao2" Parse="rimina/douzasdf2.py"/>  
+      <江宁 name="nihao3" Parse="wods/douzasdf3.py"/>  
+      <江宁 name="nihao4" Parse="asdhf/douzasdf4.py"/> 
+    </南京>  
+    <资阳> 
+      <江宁 name="nihao" Parse="abc/douzasdf.py">123</江宁>  
+      <江宁 name="nihao1" Parse="dcd/douzasdf1.py"/>  
+      <江宁 name="nihao2" Parse="rimina/douzasdf2.py"/>  
+      <江宁 name="nihao3" Parse="wods/douzasdf3.py"/>  
+      <江宁 name="nihao4" Parse="asdhf/douzasdf4.py"/>  
+      <江宁 name="nihao5" Parse="zhend/douzasdf5.py"/>  
+      <江宁 name="nihao6" Parse="zhendme/douzasdf6.py"/> 
+    </资阳>  
+    <南京> 
+      <江宁 name="nihao" Parse="abc/douzasdf.py">123</江宁>  
+      <江宁 name="nihao1" Parse="dcd/douzasdf1.py"/>  
+      <江宁 name="nihao2" Parse="rimina/douzasdf2.py"/>  
+      <江宁 name="nihao3" Parse="wods/douzasdf3.py"/>  
+      <江宁 name="nihao4" Parse="asdhf/douzasdf4.py"/> 
+    </南京> 
+  </江苏>  
+  <四川> 
+    <南京> 
+      <江宁 name="nihao" Parse="abc/douzasdf.py">123</江宁>  
+      <江宁 name="nihao1" Parse="dcd/douzasdf1.py"/>  
+      <江宁 name="nihao2" Parse="rimina/douzasdf2.py"/>  
+      <江宁 name="nihao3" Parse="wods/douzasdf3.py"/>  
+      <江宁 name="nihao4" Parse="asdhf/douzasdf4.py"/> 
+    </南京>  
+    <资阳1 name="资阳1"> 
+      <江宁 name="nihao" Parse="abc/douzasdf.py">123</江宁>  
+      <江宁 name="nihao1" Parse="dcd/douzasdf1.py"/>  
+      <江宁 name="nihao2" Parse="rimina/douzasdf2.py"/>  
+      <江宁 name="nihao3" Parse="wods/douzasdf3.py"/>  
+      <江宁 name="nihao4" Parse="asdhf/douzasdf4.py"/>  
+      <江宁 name="nihao5" Parse="asdhf/douzasdf4.py"/>  
+      <江宁 name="nihao6" Parse="zhendme/douzasdf6.py"/> 
+    </资阳1>  
+    <南京> 
+      <江宁 name="nihao" Parse="abc/douzasdf.py">123</江宁>  
+      <江宁 name="nihao1" Parse="dcd/douzasdf1.py"/>  
+      <江宁 name="nihao2" Parse="rimina/douzasdf2.py"/>  
+      <江宁 name="nihao3" Parse="wods/douzasdf3.py"/>  
+      <江宁 name="nihao4" Parse="asdhf/douzasdf4.py"/> 
+    </南京> 
+  </四川> 
+</中国>
+
