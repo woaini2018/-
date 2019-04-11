@@ -11,5 +11,6 @@ import java.util.List;
 public class test {
 	public static void main(String[] args) throws Exception {
 		system.out.println("nihao pengping");
+		System.out.print("ÄãºÃ½¯ÇÚ")£»
 	}
 }
